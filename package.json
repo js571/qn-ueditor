@@ -1,0 +1,31 @@
+{
+  "name": "qn-ueditor",
+  "version": "1.0.0",
+  "description": "express中间件，ueditor上传到七牛",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qn",
+    "qiniu",
+    "ueditor",
+    "express",
+    "七牛"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:js571/qn-ueditor.git",
+    "web": "https://github.com/node-modules/qn-ueditor"
+  },
+  "bugs": {
+    "url": "https://github.com/node-modules/qn-ueditor/issues",
+    "email": "464896740@qq.com"
+  },
+  "dependencies": {
+    "busboy": "^0.2.12",
+    "qn": "~1.1.1"
+  },
+  "author": "maat",
+  "license": "MIT"
+}
